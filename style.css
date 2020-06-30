@@ -1,0 +1,38 @@
+#menu {
+
+    display: inline-block;
+    padding-left: 15px;
+    color: #000;
+    opacity: 0.75;
+}
+
+a:hover, a:active {
+
+    text-decoration: underline ;
+}
+
+a {
+
+   color: la0dab; 
+   text-decoration: none;
+}
+
+body {
+
+   font-family: arial,sans-serif; 
+}
+
+img#googlelogo {
+/* not sure why it will not center. */
+text-align: center;
+
+}
+
+form.search.form {
+
+    text-align: center;
+}
+div.search.buttons {
+
+    text-align: center  ;
+}
